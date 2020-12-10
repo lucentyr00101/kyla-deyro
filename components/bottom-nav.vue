@@ -34,6 +34,18 @@ export default {
         default: return 'blue-grey'
       }
     }
+  },
+  watch: {
+    value () {
+      switch (this.value) {
+        case 0:
+          this.$router.push({ name: 'index' })
+          break
+        case 1:
+          this.$router.push({ name: 'gallery' })
+          break
+      }
+    }
   }
 }
 </script>

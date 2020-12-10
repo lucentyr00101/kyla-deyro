@@ -1,5 +1,5 @@
 <template lang="pug">
-  v-system-bar.w-100(
+  v-system-bar(
     dark
   )
     v-icon mdi-message
