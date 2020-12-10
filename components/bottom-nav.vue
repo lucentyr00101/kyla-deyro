@@ -5,6 +5,7 @@
     dark
     shift
     grow
+    fixed
   )
     v-btn
       span Home

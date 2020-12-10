@@ -3,8 +3,7 @@
     top-bar
     v-main
       Nuxt
-    v-footer(padless)
-      bottom-nav
+    bottom-nav
 </template>
 
 <script>
