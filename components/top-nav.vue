@@ -1,6 +1,7 @@
 <template lang="pug">
   v-system-bar(
     dark
+    fixed
   )
     v-icon mdi-message
     span 10 unread messages
