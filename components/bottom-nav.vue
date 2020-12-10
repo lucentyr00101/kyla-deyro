@@ -37,3 +37,8 @@ export default {
   }
 }
 </script>
+
+<style lang="stylus" scoped>
+.v-btn
+  height 100% !important
+</style>
