@@ -1,5 +1,6 @@
 <template lang="pug">
   v-app
+    top-bar
     v-main
       Nuxt
     v-footer(app padless)
@@ -9,7 +10,8 @@
 <script>
 export default {
   components: {
-    BottomNav: () => import('@/components/bottom-nav')
+    BottomNav: () => import('@/components/bottom-nav'),
+    TopBar: () => import('@/components/top-nav')
   }
 }
 </script>

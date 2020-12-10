@@ -10,7 +10,7 @@
       span Home
       v-icon mdi-home
     v-btn
-      span Image
+      span Gallery
       v-icon mdi-folder-multiple-image
     v-btn
       span Message
