@@ -33,7 +33,14 @@ export default {
         { text: 'Ikaw tlaga dahilan kung bakit ako natanggap dito kase I decided to improve myself, lumabas sa comfort zone ko. And I thank you for that.', image: 'IMG_20190927_122416.jpg', date: '2019-09-27' },
         { text: 'Mercato #1 Sino uupakan mo? Bat parang galit ka? :( Sorry na.', image: 'IMG_20190927_191428.jpg', date: '2019-09-27' },
         { text: 'Mercato #2', image: 'IMG_20190927_191432.jpg', date: '2019-09-27' },
-        { text: 'Mercato #3', image: 'IMG_20190927_191439.jpg', date: '2019-09-27' }
+        { text: 'Mercato #3', image: 'IMG_20190927_191439.jpg', date: '2019-09-27' },
+        { text: 'Mang Larry\'s Isawan na inulan tayo. Pero solb ka naman may pusa eh. Hahaha', image: 'IMG_20191012_173521.jpg', date: '2019-10-12' },
+        { text: 'Tapos tamang gala lang sa UP the following week.', image: 'IMG_20191019_132734.jpg', date: '2019-10-19' },
+        { text: 'Review review lang kuwnare. HAHAHAHAHA @SM North Pero wait. bakit 10-26 yung date. IDK', image: 'IMG_20191026_152501.jpg', date: '2019-10-26' },
+        { text: 'CUTE CUTE AMP!!!', image: 'IMG_20191110_101847.jpg', date: '2019-11-10' },
+        { text: '@Cat Cafe SM East Ortigas - HAPPY KID', image: 'IMG_20191123_160130.jpg', date: '2019-11-23' },
+        { text: '@Cat Cafe SM East Ortigas - Sleep sila.', image: 'IMG_20191123_170025.jpg', date: '2019-11-23' },
+        { text: '@Cat Cafe SM East Ortigas - Shhhh', image: 'IMG_20191123_171203.jpg', date: '2019-11-23' }
       ]
     }
   }
