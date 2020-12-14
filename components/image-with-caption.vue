@@ -4,6 +4,9 @@
       v-col(cols="12")
         v-card
           v-img(:src="image")
+            template(v-slot:placeholder)
+              v-row(class="fill-height ma-0" align="center" justify="center")
+                v-progress-circular(indeterminate color="blue")
     v-row(no-gutters)
       v-col(cols="12")
         v-sheet(color="blue lighten-3")

@@ -11,9 +11,6 @@
       span Home
       v-icon mdi-home
     v-btn
-      span Gallery
-      v-icon mdi-folder-multiple-image
-    v-btn
       span Message
       v-icon mdi-thought-bubble
 </template>
