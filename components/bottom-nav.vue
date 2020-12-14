@@ -27,8 +27,6 @@ export default {
       switch (this.value) {
         case 0: return 'blue-grey'
         case 1: return 'teal'
-        case 2: return 'brown'
-        case 3: return 'indigo'
         default: return 'blue-grey'
       }
     }
@@ -40,7 +38,7 @@ export default {
           this.$router.push({ name: 'index' })
           break
         case 1:
-          this.$router.push({ name: 'gallery' })
+          this.$router.push({ name: 'message' })
           break
       }
     }
